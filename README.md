@@ -1,4 +1,5 @@
 Hi, I'm @OmarFares26!
+
 I’m a Software Developer at @BOC Group, with a degree in Creative Computing.
 - 👨‍💻 Currently working as a Software Developer at BOC Group.
 - 🎓 Graduate in Creative Computing from St. Pölten University of Applied Sciences.
