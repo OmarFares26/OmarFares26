@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @OmarFares26
-- 👀 I’m interested in Programing
-- 🎓  I'm currently studying Creative Computing at St. Pölten University of Applied Sciences
-- 🌱 I’m currently learning Web & mobile development  
-- 📫 How to reach me : -- "Email :omarfares2001@outlook.com " , -- "Linkedin : linkedin.com/in/omar-fares-03049021b "
-   
+Hi, I'm @OmarFares26!
+I’m a Software Developer at @BOC Group, with a degree in Creative Computing.
 
-<!---
-OmarFares26/OmarFares26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Currently working as a Software Developer at BOC Group.
+🎓 Graduate in Creative Computing from St. Pölten University of Applied Sciences.
+🌱 Passionate about Web & Mobile Development and continuously learning to stay on top of emerging technologies.
+📫 Feel free to reach out via:
+✉️ Email: omarfares2001@outlook.com
+💼 LinkedIn: linkedin.com/in/omar-fares-03049021b
