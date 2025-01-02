@@ -5,4 +5,4 @@ I’m a Software Developer at @BOC Group, with a degree in Creative Computing.
 - 🌱 Passionate about Web & Mobile Development and continuously learning to stay on top of emerging technologies.
 - 📫 Feel free to reach out via:
   -  ✉️ Email: omarfares2001@outlook.com
-  -  💼 LinkedIn: linkedin.com/in/omar-fares-03049021b
+  -  💼 LinkedIn: https://www.linkedin.com/in/omar-fares-03049021b
